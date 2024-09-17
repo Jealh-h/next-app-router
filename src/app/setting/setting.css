@@ -1,0 +1,20 @@
+#root {
+  position: relative;
+  height: 100vh;
+  word-wrap: break-word;
+}
+.setting-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(2px);
+  margin: 20px auto;
+  width: 85vw;
+  height: 90vh;
+  overflow-y: auto;
+  border: 2px solid whitesmoke;
+  border-radius: 20px;
+  padding: 20px;
+}

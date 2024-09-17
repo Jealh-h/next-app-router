@@ -1,0 +1,12 @@
+.link {
+  color: #fff;
+  margin: 0 8px;
+}
+
+.link:hover {
+  color: #0094ff;
+}
+
+.active {
+  color: #0094ff;
+}
